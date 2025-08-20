@@ -276,3 +276,6 @@ form .btn a {
 form .btn:hover a {
     color: black;
 }
+p{
+  color: red;
+}
